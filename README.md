@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devwithsammy
-- 👀 I’m interested in wesite development
-- 🌱 I’m currently learning SCSS
+- 👋 Hi, I’m @chiefcipher
+- 👀 I’m interested in website development 
+- 🌱 I’m currently learning SCSS and node.js  
 - 💞️ I’m looking to collaborate on projects that require my frontend skills
 - 📫 Reach me on samuelyakubu737@gmail.com or +2349075859285 
 
